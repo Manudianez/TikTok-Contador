@@ -2,6 +2,14 @@
 
 App de macOS para consultar las reproducciones, los me gusta, los comentarios y las veces que se ha compartido un vídeo público de TikTok. Puedes guardar varios enlaces, actualizar a mano o activar el seguimiento cada 15, 30 o 60 minutos mientras la app esté abierta.
 
+## Capturas
+
+![Panel con los contadores del primer vídeo seguido y el perfil difuminado](docs/capturas/seguimiento-1.png)
+
+![Panel de seguimiento de otro vídeo con el perfil difuminado](docs/capturas/seguimiento-2.png)
+
+![Icono de TikTok Contador en macOS](docs/capturas/icono.png)
+
 ## Instalación
 
 Necesitas macOS 14 o posterior y las herramientas de línea de comandos de Xcode. Si aún no las tienes, ejecuta `xcode-select --install`.
